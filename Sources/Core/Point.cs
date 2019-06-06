@@ -34,7 +34,7 @@ namespace AForge
     public struct Point
     {
         /// <summary> 
-        /// X coordinate..
+        /// X coordinate..vvv
         /// </summary> 
         /// 
         public float X;
