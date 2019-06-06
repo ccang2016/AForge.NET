@@ -15,6 +15,7 @@ namespace AForge.Robotics.TeRK
 
     public partial class Qwerk
     {
+        //  ghghghghg
         /// <summary>
         /// Provides access to Qwerk's digital inputs.
         /// </summary>

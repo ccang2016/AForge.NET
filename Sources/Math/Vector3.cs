@@ -10,6 +10,7 @@ namespace AForge.Math
 {
     using System;
 
+
     /// <summary>
     /// 3D Vector structure with X, Y and Z coordinates.
     /// </summary>
