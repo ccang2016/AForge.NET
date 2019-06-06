@@ -14,6 +14,7 @@ namespace ParallelTest
     {
         static void Main( string[] args )
         {
+            
             int matrixSize = 250;
             int runs = 10;
             int tests = 5;
