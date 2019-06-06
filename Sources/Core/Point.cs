@@ -2,7 +2,7 @@
 // AForge.NET framework
 // http://www.aforgenet.com/framework/
 //
-// Copyright © AForge.NET, 2007-2011
+// Copyright ï¿½ AForge.NET, 2007-2011
 // contacts@aforgenet.com
 //
 
@@ -34,7 +34,7 @@ namespace AForge
     public struct Point
     {
         /// <summary> 
-        /// X coordinate.
+        /// X coordinate
         /// </summary> 
         /// 
         public float X;
